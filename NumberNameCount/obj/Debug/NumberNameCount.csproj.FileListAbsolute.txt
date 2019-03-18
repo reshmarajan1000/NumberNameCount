@@ -1,0 +1,7 @@
+C:\Users\reshm_co\source\repos\NumberNameCount\NumberNameCount\bin\Debug\NumberNameCount.exe.config
+C:\Users\reshm_co\source\repos\NumberNameCount\NumberNameCount\bin\Debug\NumberNameCount.exe
+C:\Users\reshm_co\source\repos\NumberNameCount\NumberNameCount\bin\Debug\NumberNameCount.pdb
+C:\Users\reshm_co\source\repos\NumberNameCount\NumberNameCount\obj\Debug\NumberNameCount.csprojAssemblyReference.cache
+C:\Users\reshm_co\source\repos\NumberNameCount\NumberNameCount\obj\Debug\NumberNameCount.csproj.CoreCompileInputs.cache
+C:\Users\reshm_co\source\repos\NumberNameCount\NumberNameCount\obj\Debug\NumberNameCount.exe
+C:\Users\reshm_co\source\repos\NumberNameCount\NumberNameCount\obj\Debug\NumberNameCount.pdb
